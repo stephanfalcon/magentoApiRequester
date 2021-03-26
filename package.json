@@ -1,0 +1,23 @@
+{
+  "name": "magentoApiRequester",
+  "version": "1.0.0",
+  "description": "this is an app that makes request to a magento store api and allows you to make changes to your store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanfalcon/magentoApiRequester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanfalcon/magentoApiRequester/issues"
+  },
+  "homepage": "https://github.com/stephanfalcon/magentoApiRequester#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
