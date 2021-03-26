@@ -1,6 +1,7 @@
 const axios = require('axios')
 const fs = require('fs')
 const scraper = require("./scraper.js")
+const pretty = require('pretty')
 // pretty much as good as axios but needs parsing first
 // const fetch = require('node-fetch') 
 
@@ -28,19 +29,24 @@ const entry = {
 }
 
 
-const getFunc = () => {
-    axios.get(url,headers)
+const getFunc = (item) => {
+    axios.get(url+item,headers)
     .then((res)=>{
-        console.log(res.data)
-        
+        let metaTitle = res.data.custom_attributes[1].value
+        console.log(metaTitle)
+        let mediaArray = res.data.media_gallery_entries
+        mediaArray.forEach((ele)=>{
+            console.log(ele)
+        })
+        // putMedia(item,metaTitle)
     })
     .catch((error)=>{
         console.error(error)
     })
 }
 
-const putFunc = () => {
-    axios.put(url,product ,headers)
+const putFunc = (item,product) => {
+    axios.put(url+item ,entry,headers)
     .then((res)=>{
         console.log(res.data)
     })
@@ -49,7 +55,7 @@ const putFunc = () => {
     })
 }
 
-const putMedia = () => {
+const putMedia = (item,entry) => {
     axios.put(mediaUrl,entry,headers)
     .then((res)=>{
         console.log(res.data)
@@ -66,6 +72,7 @@ const skuArray = () => {
     return skuArray
 }
 
+
 const productLoop = () => {
 
     scraper().forEach((element) =>{
@@ -80,12 +87,19 @@ const productLoop = () => {
     })
 }
 
+const jsonWriter = (product) => {
+    fs.appendFile("./products.json",pretty(JSON.stringify(product)),(err)=>{
+        if(err) throw err
+        console.log("writen")
+    })
+}
+
 const imageAtlLoop = () => {
     putMedia()
 }
 
 
 
-
-productLoop()
+getFunc("pro90-4k-1-1")
+// productLoop()
 // imageAtlLoop()

@@ -1,0 +1,296 @@
+{
+    "id": 636,
+    "sku": "pro90-4k-1-1",
+    "name": "Pro90-4K",
+    "attribute_set_id": 9,
+    "price": 250,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "simple",
+    "created_at": "2021-03-25 22:03:21",
+    "updated_at": "2021-03-26 16:15:44",
+    "weight": 1.5,
+    "extension_attributes": {
+        "website_ids": [1],
+        "category_links": [{
+            "position": 0,
+            "category_id": "1936"
+        }],
+        "stock_item": {
+            "item_id": 1682,
+            "product_id": 636,
+            "stock_id": 1,
+            "qty": 9996,
+            "is_in_stock": true,
+            "is_qty_decimal": false,
+            "show_default_notification_message": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": 1,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 10000,
+            "use_config_backorders": true,
+            "backorders": 0,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 1,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": true,
+            "manage_stock": true,
+            "low_stock_date": null,
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": 0
+        }
+    },
+    "product_links": [{
+        "sku": "pro90-4k-1-1",
+        "link_type": "related",
+        "linked_product_sku": "CXH-N",
+        "linked_product_type": "simple",
+        "position": 1
+    }, {
+        "sku": "pro90-4k-1-1",
+        "link_type": "related",
+        "linked_product_sku": "CAT6-200",
+        "linked_product_type": "simple",
+        "position": 7
+    }, {
+        "sku": "pro90-4k-1-1",
+        "link_type": "related",
+        "linked_product_sku": "CAT6-100",
+        "linked_product_type": "simple",
+        "position": 6
+    }, {
+        "sku": "pro90-4k-1-1",
+        "link_type": "related",
+        "linked_product_sku": "CAT6-75",
+        "linked_product_type": "simple",
+        "position": 5
+    }, {
+        "sku": "pro90-4k-1-1",
+        "link_type": "related",
+        "linked_product_sku": "CAT6-50",
+        "linked_product_type": "simple",
+        "position": 3
+    }],
+    "options": [],
+    "media_gallery_entries": [{
+        "id": 4329,
+        "media_type": "image",
+        "label": "this is an actual test but magento still sucks",
+        "position": 1,
+        "disabled": false,
+        "types": [],
+        "file": "/p/r/pro90-4k_hero_clean_with_audio_1_b_1_1_1.jpg"
+    }, {
+        "id": 4323,
+        "media_type": "image",
+        "label": "4k Outdoor small surveillance camera with on-board memory",
+        "position": 2,
+        "disabled": false,
+        "types": ["image", "small_image", "thumbnail", "swatch_image"],
+        "file": "/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"
+    }, {
+        "id": 4324,
+        "media_type": "image",
+        "label": null,
+        "position": 3,
+        "disabled": false,
+        "types": [],
+        "file": "/p/r/pro90-4k_side_1_1_1_1.png"
+    }, {
+        "id": 4325,
+        "media_type": "image",
+        "label": null,
+        "position": 4,
+        "disabled": false,
+        "types": [],
+        "file": "/p/r/pro90-4k_front_view_1_1_1_1.jpg"
+    }, {
+        "id": 4326,
+        "media_type": "image",
+        "label": null,
+        "position": 5,
+        "disabled": false,
+        "types": [],
+        "file": "/p/r/pro90-4k_dia_box_1_1_1_1_1.png"
+    }, {
+        "id": 4327,
+        "media_type": "image",
+        "label": null,
+        "position": 6,
+        "disabled": false,
+        "types": [],
+        "file": "/b/a/backstreet_box_small_9_2_4_1_1_1.jpg"
+    }, {
+        "id": 4328,
+        "media_type": "image",
+        "label": null,
+        "position": 7,
+        "disabled": false,
+        "types": [],
+        "file": "/5/_/5_year_warranty_3_4_1_1_1.jpg"
+    }],
+    "tier_prices": [],
+    "custom_attributes": [{
+                "attribute_code": "description",
+                "value": "<p>Item: Pro90-4K</p>\r\n<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/videoseries?list=PLdEoiXZnd3Gva79t2XNwINjVqoBS5XXrv\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\r\n<br>\r\n<br>\r\n\r\n\r\n<center> <
+                    p > < b > 4 K Real - time Outdoor Security Camera with Audio Recording < /b> <
+                    p >
+                    <
+                    /center>\r\n<br>\r\n<p>This camera is the best of the best. Crystal clear 4k resolution, live viewing and recording, built-in microphone for audio recording and on-board SD memory card slot. The housing meets IP67 standards ensuring excellent performance in extreme outdoor weather conditions. The camera also features a 90 foot night vision system and PoE (Power over Ethernet; which allows the camera to transmit video and receive power through one network cable). This camera is compatible with all our Elite and ProVue video recorders and all ONVIF 2.4 compliant systems. </p > \r\ n\ r\ n\ r\ n <
+                    !--product features list-- > \r\ n {
+                        {
+                            widget type = \"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"277\"}}\r\n\r\n<br><br>\r\n\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"249\"}}\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"264\"}}"
+                        }, {
+                            "attribute_code": "meta_title",
+                            "value": "Bullet Security Camera - White 90 Ft Night Vision - 4k---"
+                        }, {
+                            "attribute_code": "image",
+                            "value": "/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"
+                        }, {
+                            "attribute_code": "gift_message_available",
+                            "value": "2"
+                        }, {
+                            "attribute_code": "short_description",
+                            "value": "<center><b> <
+                                font size = \"4\" color=\"orange\">You Save 25%</font> <
+                                /b></center > \r\ n\ r\ n < br > \r\ n < p > < b > The Pro 's first choice!</b></p>\r\n\r\n<p>Item: Pro90-4K</p>\r\n<p>\r\n- 4k Resolution (8 Megapixel)<br>\r\n- Live 30fps Frames Per Second<br>\r\n- Built-in Microphone<br>\r\n- 3.6mm Wide Angle Lens<br>\r\n- 90ft Night Vision<br>\r\n- On-board SD Card Slot<br>\r\n- PoE (Power over Ethernet)<br>\r\n- Cat5 or Cat6 Cable<br>\r\n- Wall or Ceiling Mounted<br>\r\n- Outdoor Weather Rated IP67<br>\r\n- 5 Year Warranty\r\n</p>\r\n <
+                                hr / >
+                                <
+                                center > < a class = \"shopperlink\" href=\"https://www.shopperapproved.com/reviews/backstreet-surveillance.com/\"><img style=\"border: 0;\" src=\"//www.shopperapproved.com/newseals/8520/white-header-details.gif\" alt=\"Customer Reviews\" /></a></center>"
+                        }, {
+                            "attribute_code": "meta_keyword",
+                            "value": "4k security camera, cloud, record, 4k, audio, night vision, remote alerts, motion recording, outdoor security camera, ip camera, home security, video surveillance, cctv, night vison, business security camera, wide angle lens, weather rated, network outdoor camera, video surveillance camera, security camera, security cameras, video security cameras"
+                        }, {
+                            "attribute_code": "small_image",
+                            "value": "/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"
+                        }, {
+                            "attribute_code": "options_container",
+                            "value": "container2"
+                        }, {
+                            "attribute_code": "enable_compare_feature",
+                            "value": "1"
+                        }, {
+                            "attribute_code": "meta_description",
+                            "value": "Pro90-4k bullet security camera, outdoor security camera 4k video with zoom lens. outdoor security camera no subscription."
+                        }, {
+                            "attribute_code": "thumbnail",
+                            "value": "/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"
+                        }, {
+                            "attribute_code": "category_bullet_points",
+                            "value": "<div class=\"clip\">\r\n <h6 class=\"tag-line\"><span style=\"color: green; font-size: medium;\"><strong>Watch video sample!</strong></span></h6>\r\n <ul class=\"clip-list\">\r\n <li class=\"clip-item\">- 4K - Live 30 Frames Per Second</li>\r\n <li class=\"clip-item\">- Indoor/Outdoor Wall or Ceiling</li>\r\n <li class=\"clip-item\">- Audio - Built-in Microphone</li>\r\n <li class=\"clip-item\">- <strong> 90ft Night Vision</strong></li>\r\n </ul>\r\n <div class=\"price-slash\" style=\"color: orange; font-size: large;\"><strong>You Save 25%</strong></div>\r\n</div>"
+                        }, {
+                            "attribute_code": "cost",
+                            "value": "76.000000"
+                        }, {
+                            "attribute_code": "swatch_image",
+                            "value": "/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"
+                        }, {
+                            "attribute_code": "color_night_vision",
+                            "value": "5451"
+                        }, {
+                            "attribute_code": "specifications",
+                            "value": "<br>\r\n\r\n\r\n<p><strong>Camera Specifications</strong><br>\r\n<a href=\"https://www.dropbox.com/s/fihbztxmf0bp5ew/Pro90-4K%20Specification%20Sheet.pdf?dl=0\" target=\"_blank\">Click here for the products detailed Specification Sheet</a></p><br>\r\n<center>\r\n<img src=\"https://www.backstreet-surveillance.com/media/catalog/product/p/r/pro90-4k_dia_box_1.png\" alt=\"Camera Dimensions\" width=\"660\" height=\"626\" /></center>\r\n"
+                        }, {
+                            "attribute_code": "url_key",
+                            "value": "pro-4k-30fps-outdoor-camera-2"
+                        }, {
+                            "attribute_code": "msrp_display_actual_price_type",
+                            "value": "0"
+                        }, {
+                            "attribute_code": "wireless",
+                            "value": "5506"
+                        }, {
+                            "attribute_code": "installation_tips_block",
+                            "value": "226"
+                        }, {
+                            "attribute_code": "tax_class_id",
+                            "value": "2"
+                        }, {
+                            "attribute_code": "motorized_pan_tilt_zoom",
+                            "value": "5473"
+                        }, {
+                            "attribute_code": "model",
+                            "value": "Pro90-4K"
+                        }, {
+                            "attribute_code": "category_ids",
+                            "value": ["1936"]
+                        }, {
+                            "attribute_code": "recording_resolution",
+                            "value": "5481"
+                        }, {
+                            "attribute_code": "required_options",
+                            "value": "0"
+                        }, {
+                            "attribute_code": "has_options",
+                            "value": "0"
+                        }, {
+                            "attribute_code": "mounting",
+                            "value": "5476"
+                        }, {
+                            "attribute_code": "image_label",
+                            "value": "4k Outdoor small surveillance camera with on-board memory"
+                        }, {
+                            "attribute_code": "sm_featured",
+                            "value": "1"
+                        }, {
+                            "attribute_code": "night_vision",
+                            "value": "5502"
+                        }, {
+                            "attribute_code": "small_image_label",
+                            "value": "4k Outdoor small surveillance camera with on-board memory"
+                        }, {
+                            "attribute_code": "housing",
+                            "value": "5461"
+                        }, {
+                            "attribute_code": "thumbnail_label",
+                            "value": "4k Outdoor small surveillance camera with on-board memory"
+                        }, {
+                            "attribute_code": "affirm_product_mfp_type",
+                            "value": "0"
+                        }, {
+                            "attribute_code": "lens",
+                            "value": "5471"
+                        }, {
+                            "attribute_code": "environment",
+                            "value": "5459"
+                        }, {
+                            "attribute_code": "color",
+                            "value": "5507"
+                        }, {
+                            "attribute_code": "cameras_supported",
+                            "value": "5443"
+                        }, {
+                            "attribute_code": "camera_resolution",
+                            "value": "4 Megapixel"
+                        }, {
+                            "attribute_code": "audio",
+                            "value": "5432"
+                        }, {
+                            "attribute_code": "cable",
+                            "value": "5508"
+                        }, {
+                            "attribute_code": "hide_quote_buy_button",
+                            "value": "0"
+                        }]
+            }{"id":636,"sku":"pro90-4k-1-1","name":"Pro90-4K","attribute_set_id":9,"price":250,"status":1,"visibility":4,"type_id":"simple","created_at":"2021-03-25 22:03:21","updated_at":"2021-03-26 16:15:44","weight":1.5,"extension_attributes":{"website_ids":[1],"category_links":[{"position":0,"category_id":"1936"}],"stock_item":{"item_id":1682,"product_id":636,"stock_id":1,"qty":9996,"is_in_stock":true,"is_qty_decimal":false,"show_default_notification_message":false,"use_config_min_qty":true,"min_qty":0,"use_config_min_sale_qty":1,"min_sale_qty":1,"use_config_max_sale_qty":true,"max_sale_qty":10000,"use_config_backorders":true,"backorders":0,"use_config_notify_stock_qty":true,"notify_stock_qty":1,"use_config_qty_increments":true,"qty_increments":0,"use_config_enable_qty_inc":true,"enable_qty_increments":false,"use_config_manage_stock":true,"manage_stock":true,"low_stock_date":null,"is_decimal_divided":false,"stock_status_changed_auto":0}},"product_links":[{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CXH-N","linked_product_type":"simple","position":1},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-200","linked_product_type":"simple","position":7},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-100","linked_product_type":"simple","position":6},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-75","linked_product_type":"simple","position":5},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-50","linked_product_type":"simple","position":3}],"options":[],"media_gallery_entries":[{"id":4329,"media_type":"image","label":"this is an actual test but magento still sucks","position":1,"disabled":false,"types":[],"file":"/p/r/pro90-4k_hero_clean_with_audio_1_b_1_1_1.jpg"},{"id":4323,"media_type":"image","label":"4k Outdoor small surveillance camera with on-board memory","position":2,"disabled":false,"types":["image","small_image","thumbnail","swatch_image"],"file":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"id":4324,"media_type":"image","label":null,"position":3,"disabled":false,"types":[],"file":"/p/r/pro90-4k_side_1_1_1_1.png"},{"id":4325,"media_type":"image","label":null,"position":4,"disabled":false,"types":[],"file":"/p/r/pro90-4k_front_view_1_1_1_1.jpg"},{"id":4326,"media_type":"image","label":null,"position":5,"disabled":false,"types":[],"file":"/p/r/pro90-4k_dia_box_1_1_1_1_1.png"},{"id":4327,"media_type":"image","label":null,"position":6,"disabled":false,"types":[],"file":"/b/a/backstreet_box_small_9_2_4_1_1_1.jpg"},{"id":4328,"media_type":"image","label":null,"position":7,"disabled":false,"types":[],"file":"/5/_/5_year_warranty_3_4_1_1_1.jpg"}],"tier_prices":[],"custom_attributes":[{"attribute_code":"description","value":"<p>Item: Pro90-4K</p>\r\n<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/videoseries?list=PLdEoiXZnd3Gva79t2XNwINjVqoBS5XXrv\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\r\n<br>\r\n<br>\r\n\r\n\r\n<center>
+  <p><b>4K Real-time Outdoor Security Camera with Audio Recording</b>
+  <p>
+</center>\r\n<br>\r\n<p>This camera is the best of the best. Crystal clear 4k resolution, live viewing and recording, built-in microphone for audio recording and on-board SD memory card slot. The housing meets IP67 standards ensuring excellent performance in extreme outdoor weather conditions. The camera also features a 90 foot night vision system and PoE (Power over Ethernet; which allows the camera to transmit video and receive power through one network cable). This camera is compatible with all our Elite and ProVue video recorders and all ONVIF 2.4 compliant systems. </p>\r\n\r\n\r\n
+<!-- product features list -->\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"277\"}}\r\n\r\n<br><br>\r\n\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"249\"}}\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"264\"}}"},{"attribute_code":"meta_title","value":"Bullet Security Camera - White 90 Ft Night Vision - 4k---"},{"attribute_code":"image","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"gift_message_available","value":"2"},{"attribute_code":"short_description","value":"<center><b>
+    <font size=\"4\" color=\"orange\">You Save 25%</font>
+  </b></center>\r\n\r\n<br>\r\n<p><b>The Pro's first choice!</b></p>\r\n\r\n<p>Item: Pro90-4K</p>\r\n<p>\r\n- 4k Resolution (8 Megapixel)<br>\r\n- Live 30fps Frames Per Second<br>\r\n- Built-in Microphone<br>\r\n- 3.6mm Wide Angle Lens<br>\r\n- 90ft Night Vision<br>\r\n- On-board SD Card Slot<br>\r\n- PoE (Power over Ethernet)<br>\r\n- Cat5 or Cat6 Cable<br>\r\n- Wall or Ceiling Mounted<br>\r\n- Outdoor Weather Rated IP67<br>\r\n- 5 Year Warranty\r\n</p>\r\n
+<hr />
+<center><a class=\"shopperlink\" href=\"https://www.shopperapproved.com/reviews/backstreet-surveillance.com/\"><img style=\"border: 0;\" src=\"//www.shopperapproved.com/newseals/8520/white-header-details.gif\" alt=\"Customer Reviews\" /></a></center>"},{"attribute_code":"meta_keyword","value":"4k security camera, cloud, record, 4k, audio, night vision, remote alerts, motion recording, outdoor security camera, ip camera, home security, video surveillance, cctv, night vison, business security camera, wide angle lens, weather rated, network outdoor camera, video surveillance camera, security camera, security cameras, video security cameras"},{"attribute_code":"small_image","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"options_container","value":"container2"},{"attribute_code":"enable_compare_feature","value":"1"},{"attribute_code":"meta_description","value":"Pro90-4k bullet security camera, outdoor security camera 4k video with zoom lens. outdoor security camera no subscription."},{"attribute_code":"thumbnail","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"category_bullet_points","value":"<div class=\"clip\">\r\n <h6 class=\"tag-line\"><span style=\"color: green; font-size: medium;\"><strong>Watch video sample!</strong></span></h6>\r\n <ul class=\"clip-list\">\r\n <li class=\"clip-item\">- 4K - Live 30 Frames Per Second</li>\r\n <li class=\"clip-item\">- Indoor/Outdoor Wall or Ceiling</li>\r\n <li class=\"clip-item\">- Audio - Built-in Microphone</li>\r\n <li class=\"clip-item\">- <strong> 90ft Night Vision</strong></li>\r\n </ul>\r\n <div class=\"price-slash\" style=\"color: orange; font-size: large;\"><strong>You Save 25%</strong></div>\r\n</div>"},{"attribute_code":"cost","value":"76.000000"},{"attribute_code":"swatch_image","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"color_night_vision","value":"5451"},{"attribute_code":"specifications","value":"<br>\r\n\r\n\r\n<p><strong>Camera Specifications</strong><br>\r\n<a href=\"https://www.dropbox.com/s/fihbztxmf0bp5ew/Pro90-4K%20Specification%20Sheet.pdf?dl=0\" target=\"_blank\">Click here for the products detailed Specification Sheet</a></p><br>\r\n<center>\r\n<img src=\"https://www.backstreet-surveillance.com/media/catalog/product/p/r/pro90-4k_dia_box_1.png\" alt=\"Camera Dimensions\" width=\"660\" height=\"626\" /></center>\r\n"},{"attribute_code":"url_key","value":"pro-4k-30fps-outdoor-camera-2"},{"attribute_code":"msrp_display_actual_price_type","value":"0"},{"attribute_code":"wireless","value":"5506"},{"attribute_code":"installation_tips_block","value":"226"},{"attribute_code":"tax_class_id","value":"2"},{"attribute_code":"motorized_pan_tilt_zoom","value":"5473"},{"attribute_code":"model","value":"Pro90-4K"},{"attribute_code":"category_ids","value":["1936"]},{"attribute_code":"recording_resolution","value":"5481"},{"attribute_code":"required_options","value":"0"},{"attribute_code":"has_options","value":"0"},{"attribute_code":"mounting","value":"5476"},{"attribute_code":"image_label","value":"4k Outdoor small surveillance camera with on-board memory"},{"attribute_code":"sm_featured","value":"1"},{"attribute_code":"night_vision","value":"5502"},{"attribute_code":"small_image_label","value":"4k Outdoor small surveillance camera with on-board memory"},{"attribute_code":"housing","value":"5461"},{"attribute_code":"thumbnail_label","value":"4k Outdoor small surveillance camera with on-board memory"},{"attribute_code":"affirm_product_mfp_type","value":"0"},{"attribute_code":"lens","value":"5471"},{"attribute_code":"environment","value":"5459"},{"attribute_code":"color","value":"5507"},{"attribute_code":"cameras_supported","value":"5443"},{"attribute_code":"camera_resolution","value":"4 Megapixel"},{"attribute_code":"audio","value":"5432"},{"attribute_code":"cable","value":"5508"},{"attribute_code":"hide_quote_buy_button","value":"0"}]}{"id":636,"sku":"pro90-4k-1-1","name":"Pro90-4K","attribute_set_id":9,"price":250,"status":1,"visibility":4,"type_id":"simple","created_at":"2021-03-25 22:03:21","updated_at":"2021-03-26 16:15:44","weight":1.5,"extension_attributes":{"website_ids":[1],"category_links":[{"position":0,"category_id":"1936"}],"stock_item":{"item_id":1682,"product_id":636,"stock_id":1,"qty":9996,"is_in_stock":true,"is_qty_decimal":false,"show_default_notification_message":false,"use_config_min_qty":true,"min_qty":0,"use_config_min_sale_qty":1,"min_sale_qty":1,"use_config_max_sale_qty":true,"max_sale_qty":10000,"use_config_backorders":true,"backorders":0,"use_config_notify_stock_qty":true,"notify_stock_qty":1,"use_config_qty_increments":true,"qty_increments":0,"use_config_enable_qty_inc":true,"enable_qty_increments":false,"use_config_manage_stock":true,"manage_stock":true,"low_stock_date":null,"is_decimal_divided":false,"stock_status_changed_auto":0}},"product_links":[{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CXH-N","linked_product_type":"simple","position":1},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-200","linked_product_type":"simple","position":7},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-100","linked_product_type":"simple","position":6},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-75","linked_product_type":"simple","position":5},{"sku":"pro90-4k-1-1","link_type":"related","linked_product_sku":"CAT6-50","linked_product_type":"simple","position":3}],"options":[],"media_gallery_entries":[{"id":4329,"media_type":"image","label":"this is an actual test but magento still sucks","position":1,"disabled":false,"types":[],"file":"/p/r/pro90-4k_hero_clean_with_audio_1_b_1_1_1.jpg"},{"id":4323,"media_type":"image","label":"4k Outdoor small surveillance camera with on-board memory","position":2,"disabled":false,"types":["image","small_image","thumbnail","swatch_image"],"file":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"id":4324,"media_type":"image","label":null,"position":3,"disabled":false,"types":[],"file":"/p/r/pro90-4k_side_1_1_1_1.png"},{"id":4325,"media_type":"image","label":null,"position":4,"disabled":false,"types":[],"file":"/p/r/pro90-4k_front_view_1_1_1_1.jpg"},{"id":4326,"media_type":"image","label":null,"position":5,"disabled":false,"types":[],"file":"/p/r/pro90-4k_dia_box_1_1_1_1_1.png"},{"id":4327,"media_type":"image","label":null,"position":6,"disabled":false,"types":[],"file":"/b/a/backstreet_box_small_9_2_4_1_1_1.jpg"},{"id":4328,"media_type":"image","label":null,"position":7,"disabled":false,"types":[],"file":"/5/_/5_year_warranty_3_4_1_1_1.jpg"}],"tier_prices":[],"custom_attributes":[{"attribute_code":"description","value":"<p>Item: Pro90-4K</p>\r\n<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/videoseries?list=PLdEoiXZnd3Gva79t2XNwINjVqoBS5XXrv\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\r\n<br>\r\n<br>\r\n\r\n\r\n<center>
+  <p><b>4K Real-time Outdoor Security Camera with Audio Recording</b>
+  <p>
+</center>\r\n<br>\r\n<p>This camera is the best of the best. Crystal clear 4k resolution, live viewing and recording, built-in microphone for audio recording and on-board SD memory card slot. The housing meets IP67 standards ensuring excellent performance in extreme outdoor weather conditions. The camera also features a 90 foot night vision system and PoE (Power over Ethernet; which allows the camera to transmit video and receive power through one network cable). This camera is compatible with all our Elite and ProVue video recorders and all ONVIF 2.4 compliant systems. </p>\r\n\r\n\r\n
+<!-- product features list -->\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"277\"}}\r\n\r\n<br><br>\r\n\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"249\"}}\r\n{{widget type=\"Magento\\Cms\\Block\\Widget\\Block\" template=\"widget/static_block/default.phtml\" block_id=\"264\"}}"},{"attribute_code":"meta_title","value":"Bullet Security Camera - White 90 Ft Night Vision - 4k---"},{"attribute_code":"image","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"gift_message_available","value":"2"},{"attribute_code":"short_description","value":"<center><b>
+    <font size=\"4\" color=\"orange\">You Save 25%</font>
+  </b></center>\r\n\r\n<br>\r\n<p><b>The Pro's first choice!</b></p>\r\n\r\n<p>Item: Pro90-4K</p>\r\n<p>\r\n- 4k Resolution (8 Megapixel)<br>\r\n- Live 30fps Frames Per Second<br>\r\n- Built-in Microphone<br>\r\n- 3.6mm Wide Angle Lens<br>\r\n- 90ft Night Vision<br>\r\n- On-board SD Card Slot<br>\r\n- PoE (Power over Ethernet)<br>\r\n- Cat5 or Cat6 Cable<br>\r\n- Wall or Ceiling Mounted<br>\r\n- Outdoor Weather Rated IP67<br>\r\n- 5 Year Warranty\r\n</p>\r\n
+<hr />
+<center><a class=\"shopperlink\" href=\"https://www.shopperapproved.com/reviews/backstreet-surveillance.com/\"><img style=\"border: 0;\" src=\"//www.shopperapproved.com/newseals/8520/white-header-details.gif\" alt=\"Customer Reviews\" /></a></center>"},{"attribute_code":"meta_keyword","value":"4k security camera, cloud, record, 4k, audio, night vision, remote alerts, motion recording, outdoor security camera, ip camera, home security, video surveillance, cctv, night vison, business security camera, wide angle lens, weather rated, network outdoor camera, video surveillance camera, security camera, security cameras, video security cameras"},{"attribute_code":"small_image","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"options_container","value":"container2"},{"attribute_code":"enable_compare_feature","value":"1"},{"attribute_code":"meta_description","value":"Pro90-4k bullet security camera, outdoor security camera 4k video with zoom lens. outdoor security camera no subscription."},{"attribute_code":"thumbnail","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"category_bullet_points","value":"<div class=\"clip\">\r\n <h6 class=\"tag-line\"><span style=\"color: green; font-size: medium;\"><strong>Watch video sample!</strong></span></h6>\r\n <ul class=\"clip-list\">\r\n <li class=\"clip-item\">- 4K - Live 30 Frames Per Second</li>\r\n <li class=\"clip-item\">- Indoor/Outdoor Wall or Ceiling</li>\r\n <li class=\"clip-item\">- Audio - Built-in Microphone</li>\r\n <li class=\"clip-item\">- <strong> 90ft Night Vision</strong></li>\r\n </ul>\r\n <div class=\"price-slash\" style=\"color: orange; font-size: large;\"><strong>You Save 25%</strong></div>\r\n</div>"},{"attribute_code":"cost","value":"76.000000"},{"attribute_code":"swatch_image","value":"/p/r/pro90-4k_hero_clean_with_audio_1_1_1_1.jpg"},{"attribute_code":"color_night_vision","value":"5451"},{"attribute_code":"specifications","value":"<br>\r\n\r\n\r\n<p><strong>Camera Specifications</strong><br>\r\n<a href=\"https://www.dropbox.com/s/fihbztxmf0bp5ew/Pro90-4K%20Specification%20Sheet.pdf?dl=0\" target=\"_blank\">Click here for the products detailed Specification Sheet</a></p><br>\r\n<center>\r\n<img src=\"https://www.backstreet-surveillance.com/media/catalog/product/p/r/pro90-4k_dia_box_1.png\" alt=\"Camera Dimensions\" width=\"660\" height=\"626\" /></center>\r\n"},{"attribute_code":"url_key","value":"pro-4k-30fps-outdoor-camera-2"},{"attribute_code":"msrp_display_actual_price_type","value":"0"},{"attribute_code":"wireless","value":"5506"},{"attribute_code":"installation_tips_block","value":"226"},{"attribute_code":"tax_class_id","value":"2"},{"attribute_code":"motorized_pan_tilt_zoom","value":"5473"},{"attribute_code":"model","value":"Pro90-4K"},{"attribute_code":"category_ids","value":["1936"]},{"attribute_code":"recording_resolution","value":"5481"},{"attribute_code":"required_options","value":"0"},{"attribute_code":"has_options","value":"0"},{"attribute_code":"mounting","value":"5476"},{"attribute_code":"image_label","value":"4k Outdoor small surveillance camera with on-board memory"},{"attribute_code":"sm_featured","value":"1"},{"attribute_code":"night_vision","value":"5502"},{"attribute_code":"small_image_label","value":"4k Outdoor small surveillance camera with on-board memory"},{"attribute_code":"housing","value":"5461"},{"attribute_code":"thumbnail_label","value":"4k Outdoor small surveillance camera with on-board memory"},{"attribute_code":"affirm_product_mfp_type","value":"0"},{"attribute_code":"lens","value":"5471"},{"attribute_code":"environment","value":"5459"},{"attribute_code":"color","value":"5507"},{"attribute_code":"cameras_supported","value":"5443"},{"attribute_code":"camera_resolution","value":"4 Megapixel"},{"attribute_code":"audio","value":"5432"},{"attribute_code":"cable","value":"5508"},{"attribute_code":"hide_quote_buy_button","value":"0"}]}
